@@ -5,6 +5,7 @@
 to use:
 
 `pip install pillow`
+then
 `python main.py path/to/your/file`
 
 size is set to fit perfectly in a discord message, it creates a file `result.txt` with markdown for discord already included
